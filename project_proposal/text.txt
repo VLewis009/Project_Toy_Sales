@@ -1,0 +1,5 @@
+A small simple idea of selling items and view what that person is selling.
+The home page will be the startng page.
+It will have login/register buttons that will make them a pop-up window separatly.
+Also the when viewing and are login, only then create and edit will be available to access and are pop-up as well.
+More updates on this will be added during the design phase.
